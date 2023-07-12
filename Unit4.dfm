@@ -3,7 +3,7 @@ object Form4: TForm4
   Top = 125
   Width = 1044
   Height = 540
-  Caption = 'Form4'
+  Caption = 'Tabel Poin'
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText

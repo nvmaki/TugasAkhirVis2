@@ -3,7 +3,7 @@ object Form6: TForm6
   Top = 190
   Width = 1044
   Height = 540
-  Caption = 'Form6'
+  Caption = 'Tabel Hub Anak'
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText

@@ -3,7 +3,7 @@ object Form5: TForm5
   Top = 125
   Width = 1044
   Height = 540
-  Caption = 'Form5'
+  Caption = 'Tabel Kelas'
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText

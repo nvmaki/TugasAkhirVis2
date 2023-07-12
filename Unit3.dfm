@@ -3,7 +3,7 @@ object Form3: TForm3
   Top = 124
   Width = 1043
   Height = 541
-  Caption = 'Form3'
+  Caption = 'Tabel User'
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
